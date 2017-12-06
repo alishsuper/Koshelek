@@ -10,6 +10,7 @@
 #include <QFile>
 #include <QMessageBox>
 #include "crypter.h"
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
